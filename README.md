@@ -6,4 +6,4 @@ Here my simple calculator using JAVA AWT
  
  ### FOR DOWNLOADING `CALC.jar`  
  
-   IN MASTER you can find this file and download it or directly [`click here`](https://github.com/Rohit570git-hub/Basic-Calculator/blob/master/CALC.jar)
+   IN MASTER you can find this file and download it or directly [`click here`](https://github.com/harunansari27/Basic-Calculator-master/archive/refs/heads/main.zip)
